@@ -1,0 +1,82 @@
+export default {
+  method: 'Facebook chat',
+  connectBy: 'Google',
+  inviteCode: '',
+  code: 2657,
+  kid: {
+    name: {
+      first: '',
+      last: '',
+    },
+    registrations: [],
+    parent: null,
+    dob: '2000-01-01T00:00:00.000Z',
+    institude: '',
+    mail: '',
+    phone: '',
+    facebook: '',
+    inviteBy: '',
+    inviteByClass: '',
+    combo: 'Không',
+    experience: '',
+    _id: '5c67c4b7b966db02c2643ef3',
+  },
+  parent: {
+    name: {
+      first: '',
+      last: '',
+    },
+    mail: '',
+    phone: '',
+    institude: '',
+    address: '',
+    contactParent: false,
+    contactStudent: false,
+  },
+  utm_source: '',
+  utm_medium: '',
+  utm_campaign: '',
+  _id: '5c67c4b7b966db02c2643ef6',
+  depositRecords: [],
+  depositState: {
+    state: 'km-menu-filterbar-depositstatus-notyet',
+    favorable: 0,
+    total: 0,
+    paid: 0,
+  },
+  docileFeeState: {
+    state: 'km-menu-filterbar-docilefeestate-notyet',
+    total: 0,
+    note: '',
+  },
+  sentEmails: [],
+  courses: [
+    {
+      testState: {
+        state: 'km-menu-filterbar-teststatus-cantcontact',
+        notePc: '',
+        noteInterview: '',
+        scheduleTest: null,
+        time: null,
+      },
+      testResultState: {
+        state: 'km-menu-filterbar-testresultstatus-notyet',
+        secondChange: '',
+      },
+      comment: {
+        note: '',
+      },
+      admissionState: {
+        state: 'km-menu-filterbar-admissionStatus-notyet',
+        note: '',
+      },
+      time: '2019-02-22T08:23:57.777Z',
+      studyStatus: {
+        status: 'notStartedYet',
+        message: '',
+      },
+      course: '5c3b74a3a286e41b70e61b13',
+    },
+  ],
+  deactivated: false,
+};
